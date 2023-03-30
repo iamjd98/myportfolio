@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.459404c6.css",
+    "main.js": "/myportfolio/static/js/main.bb7d622f.js",
+    "static/media/project1.png": "/myportfolio/static/media/project1.142fe894c33b343d00fa.png",
+    "static/media/project2.png": "/myportfolio/static/media/project2.74359bb19b31b6444382.png",
+    "static/media/project3.png": "/myportfolio/static/media/project3.dda7b5310daeca7c9534.png",
+    "static/media/project6.png": "/myportfolio/static/media/project6.0341a92c6218dd13b035.png",
+    "static/media/project4.png": "/myportfolio/static/media/project4.0e1937386f525a582bb2.png",
+    "static/media/react.png": "/myportfolio/static/media/react.06f589ce192ad1eff149.png",
+    "static/media/php.png": "/myportfolio/static/media/php.05d1e348809b5b74847b.png",
+    "static/media/Bootstrap.png": "/myportfolio/static/media/Bootstrap.9819b68f9109a242f3b3.png",
+    "static/media/laravel.png": "/myportfolio/static/media/laravel.ef28600cab4d13431533.png",
+    "static/media/jquery.png": "/myportfolio/static/media/jquery.cfcdb519eb2c49b60237.png",
+    "static/media/tailwind.png": "/myportfolio/static/media/tailwind.2b910046cd35b280a1b9.png",
+    "static/media/mysql.png": "/myportfolio/static/media/mysql.c765f9e3144c8e550a1f.png",
+    "index.html": "/myportfolio/index.html",
+    "main.459404c6.css.map": "/myportfolio/static/css/main.459404c6.css.map",
+    "main.bb7d622f.js.map": "/myportfolio/static/js/main.bb7d622f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.459404c6.css",
+    "static/js/main.bb7d622f.js"
+  ]
+}
